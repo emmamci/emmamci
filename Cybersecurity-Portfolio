@@ -1,0 +1,12 @@
+#Cybersecurity Portfolio
+
+##Overview
+This is an overview of projects that I believe demonstrate my skills in Cybersecurity in a clear and consise fashion
+
+##Table of Contents
+- IT Audit of a Small Business (In Progress)
+- Active Directory Security Assessment (Planned)
+- GRC Risk Assesment and Complience Assesment (Planned)
+- Backup Process Audit (Planned)
+- Disaster Recovery and Business Continuity Audit (Planned)
+- Network Security Audit and Segmentation (Planned)
